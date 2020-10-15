@@ -11,3 +11,11 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  kotachild
 */
+
+.container {
+  background-color: gray;
+}
+
+a {
+  background-color: orange;
+}
